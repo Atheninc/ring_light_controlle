@@ -7,4 +7,5 @@ const Boot = () => {
             </div>);
 }
 
+
 export default Boot;
