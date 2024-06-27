@@ -16,3 +16,5 @@ l'objectif de ce projet etais de comprendre react la façon de crée des composa
 ## demo
 https://youtu.be/FeYsZnOHEZ4
 
+![Part 1 Drawing 2](https://github.com/Atheninc/ring_light_controlle/assets/22017197/eed1ae61-8a2c-4c16-8155-fe72bd49a0a7)
+
