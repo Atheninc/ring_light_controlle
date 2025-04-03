@@ -6,3 +6,4 @@ services:
       dockerfile: Dockerfile
     ports:
       - "6874:80"
+      - "6875:81"
